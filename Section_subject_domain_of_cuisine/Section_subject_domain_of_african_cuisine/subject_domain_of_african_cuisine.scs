@@ -1,0 +1,60 @@
+subject_domain_of_african_cuisine
+    =>nrel_main_idtf:[Предметная область африканской кухни] (* <-lang_ru;;*);
+    =>nrel_main_idtf:[Subject domain of african cuisine] (* <-lang_en;;*);
+
+<-subject_domain; //скорее всего тут <-subject_domain_of_cuisine; но это не точно
+
+->rrel_maximum_studied_object_class:
+    concept_african_cuisine;
+
+->rrel_not_maximum_studied_object_class: //здесь вы уже пишите названия ваших блюд
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;  
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;
+    concept_ ;;
